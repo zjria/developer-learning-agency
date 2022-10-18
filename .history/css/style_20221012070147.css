@@ -1,0 +1,9 @@
+.carousel-caption button {
+    background: #289BDE;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 18px;
+}

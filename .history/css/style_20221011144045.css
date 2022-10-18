@@ -1,0 +1,11 @@
+.carousel-inner::before {
+    contain: '';
+    top: 0;
+    right: 0;
+    border: 0;
+    left: 0;
+    display: block;
+    position: absolute;
+    background: #000;
+    opacity: 0.7;
+}

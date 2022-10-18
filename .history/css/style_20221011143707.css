@@ -1,0 +1,5 @@
+.carousel-inner::before {
+    contain: '';
+    display: block;
+
+}

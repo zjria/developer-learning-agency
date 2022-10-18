@@ -1,0 +1,6 @@
+.carousel-inner::before {
+    contain: '';
+    display: block;
+    position: absolute;
+
+}
